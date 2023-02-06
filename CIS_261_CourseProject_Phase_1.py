@@ -1,4 +1,4 @@
-#Courtney Hansen, CIS 261 Course Project - Phase 1
+#Courtney Hansen, CIS 261 Course Project - Phase 2
 #
 #
 def GetEmpName():
